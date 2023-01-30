@@ -1,0 +1,41 @@
+body{
+    background-color: #253038;
+}
+
+.imgBox{
+    border: solid black;
+    max-width: 600px;
+    margin: auto;
+    height: 12vh;
+}
+
+.firstBox,.secondBox,.thirdBox,.fourthBox{
+    border: solid red;
+    width: 600px;
+    height: 32vh;
+    margin: auto;
+    color: #fda30f;
+}
+
+.hideShow{
+    border-radius: 22px;
+}
+
+.hideShow:hover{
+    background-color: aqua;
+}
+
+.newTitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color : #fda30f;
+    max-width: 60vw;
+    margin: auto;
+}
+
+.textModOne, .textModTwo, .textModThree, .textModFour{
+    border: solid green;
+    font-family: monospace;
+    font-size: 16px;
+    color: #fda30f;
+}
